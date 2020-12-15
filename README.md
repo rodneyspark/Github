@@ -1,11 +1,9 @@
 # GitHub-Search
 #### This project interlinks clients to software developers, Friday November 14th 2020
 ## Author
-[Benard Akaka](https://github.com/Benardakaka/The-GitHub-Search)
+Rodney Gakuru
 ## Description
 This is a website where users may enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories. A person can also look for repositories
-## Live Page
-https://github.com/Benardakaka/The-GitHub-Search
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
@@ -21,7 +19,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
-* git clone ```https://github.com/Benardakaka/The-GitHub-Search```
+* git clone
 * cd Github-Search
 * code . or atom . based on the text editor you have.
 ## Technologies Used
@@ -33,8 +31,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Known Bugs
 * highlight directive property does not work properly
 ## Contact Information
-If you have any question or contributions, please email me at [benardakaka484@gmail.com]
+If you have any question or contributions, please email me at [rodneygakuru@gmail.com]
 ## License
 * *MIT License:*
 * 
-* Copyright &copy;[Benard Akaka] </b
+* Copyright &copy;[rodneygakuru] </b
